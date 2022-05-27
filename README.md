@@ -17,4 +17,4 @@ ACTIVIDAD-E2
 Este programa basicamente calcula la edad de una persona. Pidiendo su fecha de nacimiento en el formato: dd/mm/yy, posteriormente la fecha actual en el mismo formato para proceder a decirte cuantos años meses y dias tienes.
 
 ## Funcionamiento del programa sumaN
-El funcionamiento de este programa como su nombre lo indica es sumar una cantidad de numeros 
+El funcionamiento de este programa como su nombre lo indica es sumar una cantidad de numeros, el programa empieza pidiendo una cantidad de valores a sumar luego de haber ingresado esa (x) cantidad, el programa te dara el resultado de la suma de todos los valores ingresados 
