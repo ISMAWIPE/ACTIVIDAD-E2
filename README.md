@@ -21,3 +21,9 @@ El funcionamiento de este programa como su nombre lo indica es sumar una cantida
 .
 ## Funcionamiento del programa puntoventa
 El programa punto venta "simula lo que es una tienda" inicia pidiendo los productos que desea, despues pide el valor de la compra para proceder a realizar su respectivo descuento y darte un valor final de la copra.
+
+## Funcionamiento del programa compara
+El programa compara te pide que ingreses 2 numeros para proceder a compararlos y decirte cual de los numeros ingresados es el mayor o si son iguales 
+
+## Funcionamiento del programa cuenta moneda 
+La funcionalidad de este programa es clasificar entre monedas de 10ctvs y 25ctvs, el programa de empeiza pidiendo una cantidad de monedas luego empizas a clasificarlas entre monedas de 10 y 25 ctvs segun el gusto del usuario posteriormente el programa te dira cuantas monedas de cada una ingresastes.
