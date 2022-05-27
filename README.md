@@ -14,3 +14,6 @@
 4._compara
 
 5._cuentamoneda
+
+## Funcionamiento del programa laedad
+Este programa basicamente calcula la edad de una persona pidiendo su fecha de nacimiento en el formato: dd/mm/yy, posteriormente la fecha actual en el mismo formato 
