@@ -27,3 +27,8 @@ El programa compara te pide que ingreses 2 numeros para proceder a compararlos y
 
 ## Funcionamiento del programa cuenta moneda 
 La funcionalidad de este programa es clasificar entre monedas de 10ctvs y 25ctvs, el programa de empeiza pidiendo una cantidad de monedas luego empizas a clasificarlas entre monedas de 10 y 25 ctvs segun el gusto del usuario posteriormente el programa te dira cuantas monedas de cada una ingresastes.
+
+
+## EXPLICACION DE COMO DESCARGAR Y USAR LOS PROGRAMAS
+
+Empiezas clonando el repositorio con el comando git clone con su respectivo link, luego ingresas en la carpeta ACTIVIDAD-E2 y procedes a ejecutar el programa que deseas con el comando  vim y .cpp al final (ejemplo vim sumaN.cpp)
