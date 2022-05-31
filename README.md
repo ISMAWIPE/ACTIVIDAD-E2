@@ -107,11 +107,11 @@ Empiezas clonando el repositorio con el comando git clone con su respectivo link
 Para poder descargar el repositorio en el que se encuentran los programas descritos en este post, tienes que realizar el siguiente proceso:
 
 ## Clonar el repositorio
-Para clonar el repositorio en tu entorno de trabajo, debes usar el comando git clone, seguido de la dirección del repositorio en donde se encuentra el trabajo.
+Para clonar el repositorio en tu entorno, debes usar el comando git clone, seguido de la dirección del repositorio en donde se encuentra el trabajo.
 
 git clone https://github.com/ISMAWIPE/ACTIVIDAD-E2.git
 
-Una vez clonado en tu equipo, tienes que usar el comando git pull para poder descargar cualquier cambio que se haya podido realizar en el repositorio.
+Una vez clonado en tu equipo, tienes que usar el comando (git pull) para poder descargar cualquier cambio que se haya podido realizar en el repositorio.
 
 Usando el comando ls de termux, puedes verificar que se encuentran todos los archivos que acabas de descargar.
 
