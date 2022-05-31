@@ -36,6 +36,22 @@ Imagen de referencia:
 
 ## Funcionamiento del programa sumaN
 El funcionamiento de este programa como su nombre lo indica es sumar una cantidad de numeros, el programa empieza pidiendo una cantidad de valores a sumar luego de haber ingresado esa (x) cantidad, el programa te dara el resultado de la suma de todos los valores ingresados. 
+
+Imagen de referencia:
+
+
+
+
+![image](https://user-images.githubusercontent.com/101124836/171300161-ffe651ab-56fe-4e40-988f-0c8103efcdda.png)
+
+
+
+
+
+
+
+
+
 .
 ## Funcionamiento del programa puntoventa
 El programa punto venta "simula lo que es una tienda" inicia pidiendo los productos que desea, despues pide el valor de la compra para proceder a realizar su respectivo descuento y darte un valor final de la copra.
