@@ -1,7 +1,7 @@
 ## PROGRAMAS EN C++ DE VALENCIA KEVIN
 ACTIVIDAD-E2
 ## INFORMACION DEL AUTOR: 
-NOMBRE: Kevin Ismael Valencia Castillo  
+Nombre: Kevin Ismael Valencia Castillo  
 
 Contacto: Valenciakevin047@gmail.com  
 
@@ -37,3 +37,26 @@ La funcionalidad de este programa es clasificar entre monedas de 10ctvs y 25ctvs
 ## EXPLICACION DE COMO DESCARGAR Y USAR LOS PROGRAMAS
 
 Empiezas clonando el repositorio con el comando git clone con su respectivo link, luego ingresas en la carpeta ACTIVIDAD-E2 y procedes a ejecutar el programa que deseas con el comando  vim y .cpp al final (ejemplo vim sumaN.cpp)
+
+
+
+Para poder descargar el repositorio en el que se encuentran los programas descritos en este post, tienes que realizar el siguiente proceso:
+
+## Clonar el repositorio
+Para clonar el repositorio en tu entorno de trabajo, debes usar el comando git clone, seguido de la dirección del repositorio en donde se encuentra el trabajo.
+
+git clone https://github.com/ISMAWIPE/ACTIVIDAD-E2.git
+
+Una vez clonado en tu equipo, tienes que usar el comando git pull para poder descargar cualquier cambio que se haya podido realizar en el repositorio.
+
+Usando el comando ls de termux, puedes verificar que se encuentran todos los archivos que acabas de descargar.
+
+En caso de que necesites realizar y subir cambios en los programas, recuerda usar los comandos git status (para ver que es lo que se somete a cambios), git add (para añadir esos cambios a la nube), git commit (para comentar los cambios) y git push (para poder subir a github los cambios que introduciste).
+
+## Compilar los programas
+En caso de que desees compilar y correr los archivos .cpp, debes usar el comando g++ nombre_del_programa.cpp -o nombre_del_programa. 
+
+Ejemplo
+
+g++ sumaN.cpp -o sumaN
+
