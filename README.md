@@ -20,8 +20,9 @@ Youtube: https://youtu.be/EXVir3RxTdc
 
 ## Funcionamiento del programa laedad
 Este programa basicamente calcula la edad de una persona. Pidiendo su fecha de nacimiento en el formato: dd/mm/yy, posteriormente la fecha actual en el mismo formato para proceder a decirte cuantos años meses y dias tienes.
-
 Imagen de referencia:
+
+
 ![WhatsApp Image 2022-05-31 at 12 24 09 PM](https://user-images.githubusercontent.com/101124836/171299766-2f88e4a7-4ade-4e48-bd88-10289bbd9081.jpeg)
 
 
