@@ -1,6 +1,11 @@
 ## PROGRAMAS EN C++ DE VALENCIA KEVIN
 ACTIVIDAD-E2
-## Autor: Kevin Ismael Valencia Castillo  Contacto: Valenciakevin047@gmail.com  Youtube: https://youtu.be/EXVir3RxTdc
+## INFORMACION DEL AUTOR: 
+NOMBRE: Kevin Ismael Valencia Castillo  
+
+Contacto: Valenciakevin047@gmail.com  
+
+Youtube: https://youtu.be/EXVir3RxTdc
 
 ## PROGRAMAS QUE ENCONTRARA EN LA ACTIVIDAD-E2  
 1._laedad 
