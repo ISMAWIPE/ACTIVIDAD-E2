@@ -21,6 +21,13 @@ Youtube: https://youtu.be/EXVir3RxTdc
 ## Funcionamiento del programa laedad
 Este programa basicamente calcula la edad de una persona. Pidiendo su fecha de nacimiento en el formato: dd/mm/yy, posteriormente la fecha actual en el mismo formato para proceder a decirte cuantos años meses y dias tienes.
 
+Imagen de referencia:
+![WhatsApp Image 2022-05-31 at 12 24 09 PM](https://user-images.githubusercontent.com/101124836/171299766-2f88e4a7-4ade-4e48-bd88-10289bbd9081.jpeg)
+
+
+
+
+
 ## Funcionamiento del programa sumaN
 El funcionamiento de este programa como su nombre lo indica es sumar una cantidad de numeros, el programa empieza pidiendo una cantidad de valores a sumar luego de haber ingresado esa (x) cantidad, el programa te dara el resultado de la suma de todos los valores ingresados. 
 .
