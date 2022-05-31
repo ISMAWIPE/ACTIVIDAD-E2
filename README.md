@@ -26,7 +26,8 @@ Imagen de referencia:
 
 
 
-![WhatsApp Image 2022-05-31 at 12 24 09 PM](https://user-images.githubusercontent.com/101124836/171299766-2f88e4a7-4ade-4e48-bd88-10289bbd9081.jpeg)
+![image](https://user-images.githubusercontent.com/101124836/171300897-94cc73c4-5c4f-4b81-b3cd-569dce9daf40.png)
+
 
 
 
@@ -76,11 +77,25 @@ Imagen de referencia:
 
 
 
+![image](https://user-images.githubusercontent.com/101124836/171300665-7bb826c0-0439-45b1-bee8-581f98d0f853.png)
+
+
 
 
 
 ## Funcionamiento del programa cuenta moneda 
 La funcionalidad de este programa es clasificar entre monedas de 10ctvs y 25ctvs, el programa de empeiza pidiendo una cantidad de monedas luego empizas a clasificarlas entre monedas de 10 y 25 ctvs segun el gusto del usuario posteriormente el programa te dira cuantas monedas de cada una ingresastes.
+
+Imagen de referencia:
+
+
+
+
+![image](https://user-images.githubusercontent.com/101124836/171300800-9dda8b1b-05c3-404e-acbe-737fa53881a1.png)
+
+
+
+
 
 
 ## EXPLICACION DE COMO DESCARGAR Y USAR LOS PROGRAMAS
