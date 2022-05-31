@@ -61,6 +61,12 @@ Imagen de referencia:
 
 
 
+![image](https://user-images.githubusercontent.com/101124836/171300358-23a9c568-22e7-421e-b305-a9a5f73b0d0c.png)
+
+
+
+
+
 
 ## Funcionamiento del programa compara
 El programa compara te pide que ingreses 2 numeros para proceder a compararlos y decirte cual de los numeros ingresados es el mayor o si son iguales 
