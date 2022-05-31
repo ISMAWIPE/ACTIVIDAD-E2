@@ -71,6 +71,14 @@ Imagen de referencia:
 ## Funcionamiento del programa compara
 El programa compara te pide que ingreses 2 numeros para proceder a compararlos y decirte cual de los numeros ingresados es el mayor o si son iguales 
 
+Imagen de referencia:
+
+
+
+
+
+
+
 ## Funcionamiento del programa cuenta moneda 
 La funcionalidad de este programa es clasificar entre monedas de 10ctvs y 25ctvs, el programa de empeiza pidiendo una cantidad de monedas luego empizas a clasificarlas entre monedas de 10 y 25 ctvs segun el gusto del usuario posteriormente el programa te dira cuantas monedas de cada una ingresastes.
 
