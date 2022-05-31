@@ -100,10 +100,6 @@ Imagen de referencia:
 
 ## EXPLICACION DE COMO DESCARGAR Y USAR LOS PROGRAMAS
 
-Empiezas clonando el repositorio con el comando git clone con su respectivo link, luego ingresas en la carpeta ACTIVIDAD-E2 y procedes a ejecutar el programa que deseas con el comando  vim y .cpp al final (ejemplo vim sumaN.cpp)
-
-
-
 Para poder descargar el repositorio en el que se encuentran los programas descritos en este post, tienes que realizar el siguiente proceso:
 
 ## Clonar el repositorio
