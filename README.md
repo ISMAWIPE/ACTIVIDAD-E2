@@ -52,9 +52,15 @@ Imagen de referencia:
 
 
 
-.
+
 ## Funcionamiento del programa puntoventa
 El programa punto venta "simula lo que es una tienda" inicia pidiendo los productos que desea, despues pide el valor de la compra para proceder a realizar su respectivo descuento y darte un valor final de la copra.
+
+Imagen de referencia:
+
+
+
+
 
 ## Funcionamiento del programa compara
 El programa compara te pide que ingreses 2 numeros para proceder a compararlos y decirte cual de los numeros ingresados es el mayor o si son iguales 
